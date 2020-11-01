@@ -1,0 +1,7 @@
+D:\itacadem\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\itacadem\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\itacadem\Calculator\bin\Debug\Calculator.exe.config
+D:\itacadem\Calculator\bin\Debug\Calculator.exe
+D:\itacadem\Calculator\bin\Debug\Calculator.pdb
+D:\itacadem\Calculator\obj\Debug\Calculator.exe
+D:\itacadem\Calculator\obj\Debug\Calculator.pdb
