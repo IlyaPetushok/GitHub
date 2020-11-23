@@ -1,0 +1,7 @@
+D:\itacadem\Dz2it\bin\Debug\Dz2it.exe.config
+D:\itacadem\Dz2it\bin\Debug\Dz2it.exe
+D:\itacadem\Dz2it\bin\Debug\Dz2it.pdb
+D:\itacadem\Dz2it\obj\Debug\Dz2it.csprojAssemblyReference.cache
+D:\itacadem\Dz2it\obj\Debug\Dz2it.csproj.CoreCompileInputs.cache
+D:\itacadem\Dz2it\obj\Debug\Dz2it.exe
+D:\itacadem\Dz2it\obj\Debug\Dz2it.pdb
